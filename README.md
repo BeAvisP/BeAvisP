@@ -3,14 +3,13 @@
 [<img align='left' alt=' bea avis | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
 
 <br/><hr>
-### I'm a FullStack Developer.
+### I'm a Frontend Developer.
 Ever since I was a child, I have been attracted by everything related to IT. It's a field that forces you to keep up to date and where there is always something new to learn. 
 After studying computer network systems management, I ended up working as a CRM consultant. A few years later I realised that what really fascinated me was web programming. That's why I started training myself to become a web developer, learning different languages and focusing especially on HTML, CSS and Angular6. 
 As a result of the COVID pandemic I had the opportunity to take the web development bootcamp at Ironhack. 9 intense weeks where I consolidated my knowledge and acquired new skills working with the MERN stack.
 
 My short-term objectives are: 
 - Improve my programming and logic skills mastering all the technologies I currently know
-- Find a job I'm passionate at and forge a great bond with my teammates.
 
 I like dancing 💃 , videogames 🎮 , computers 💻 and having fun ✨
 <br/>
